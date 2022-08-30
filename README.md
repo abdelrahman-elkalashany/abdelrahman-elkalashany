@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdelrahman-elkalashany
 - 👀 I’m interested in Software Automation Industry.
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on RPA.
+- 🌱 I’m currently learning DevOps.
+- 💞️ I’m looking to collaborate on Software Aytomation.
 - 📫 Reach me @ abdelrahman.elkalashany@gmail.com
 
 <!---
